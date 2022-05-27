@@ -9,4 +9,4 @@ The arXiv submission of the paper can be accessed [here](https://doi.org/10.4855
 Nora Molkenthin     
 J. Jasmin Güven     
 Steffen Mühle       
-Antonia S.J.S Mey       
+Antonia S.J.S. Mey       
