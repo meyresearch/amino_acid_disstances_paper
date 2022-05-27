@@ -1,0 +1,223 @@
+\begin{thebibliography}{10}
+
+\bibitem{ahmed2020hemoglobin}
+Mostafa~H. Ahmed, Mohini~S. Ghatge, and Martin~K. Safo.
+\newblock Hemoglobin: {{Structure}}, {{Function}} and {{Allostery}}.
+\newblock In Ulrich Hoeger and J.~Robin Harris, editors, {\em Vertebrate and
+  {{Invertebrate Respiratory Proteins}}, {{Lipoproteins}} and Other {{Body
+  Fluid Proteins}}}, Subcellular {{Biochemistry}}, pages 345--382. {Springer
+  International Publishing}, {Cham}, 2020.
+
+\bibitem{nagata2021rhodopsins}
+Takashi Nagata and Keiichi Inoue.
+\newblock Rhodopsins at a glance.
+\newblock {\em J. Cell Sci.}, 134(22):jcs258989, November 2021.
+
+\bibitem{dill2008protein}
+Ken~A Dill, S~Banu Ozkan, M~Scott Shell, and Thomas~R Weikl.
+\newblock The protein folding problem.
+\newblock {\em Annu. Rev. Biophys.}, 37:289--316, 2008.
+
+\bibitem{Dill1042}
+Ken~A. Dill and Justin~L. MacCallum.
+\newblock The protein-folding problem, 50 years on.
+\newblock {\em Science}, 338(6110):1042--1046, 2012.
+
+\bibitem{scheraga2007proteinfolding}
+Harold~A Scheraga, Mey Khalili, and Adam Liwo.
+\newblock Protein-folding dynamics: Overview of molecular simulation
+  techniques.
+\newblock {\em Annu. Rev. Phys. Chem.}, 58:57--83, 2007.
+
+\bibitem{nassar2021protein}
+Roy Nassar, Gregory~L. Dignon, Rostam~M. Razban, and Ken~A. Dill.
+\newblock The {{Protein Folding Problem}}: {{The Role}} of {{Theory}}.
+\newblock {\em J. Mol. Biol.}, 433(20):167126, October 2021.
+
+\bibitem{marks2012protein}
+Debora~S. Marks, Thomas~A. Hopf, and Chris Sander.
+\newblock Protein structure prediction from sequence variation.
+\newblock {\em Nat. Biotechnol.}, 30(11):1072--1080, November 2012.
+
+\bibitem{jumper2021highly}
+John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov,
+  Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin {\v
+  Z}{\'i}dek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A.~A. Kohl,
+  Andrew~J. Ballard, Andrew Cowie, Bernardino {Romera-Paredes}, Stanislav
+  Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman,
+  Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas
+  Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew~W.
+  Senior, Koray Kavukcuoglu, Pushmeet Kohli, and Demis Hassabis.
+\newblock Highly accurate protein structure prediction with {{AlphaFold}}.
+\newblock {\em Nature}, 596(7873):583--589, August 2021.
+
+\bibitem{kryshtafovych2021critical}
+Andriy Kryshtafovych, Torsten Schwede, Maya Topf, Krzysztof Fidelis, and John
+  Moult.
+\newblock Critical assessment of methods of protein structure prediction
+  ({{CASP}})\textemdash{{Round XIV}}.
+\newblock {\em Proteins}, 89(12):1607--1617, 2021.
+
+\bibitem{berman2000protein}
+Helen~M. Berman, John Westbrook, Zukang Feng, Gary Gilliland, T.~N. Bhat, Helge
+  Weissig, Ilya~N. Shindyalov, and Philip~E. Bourne.
+\newblock The {{Protein Data Bank}}.
+\newblock {\em Nucleic Acids Res.Paci}, 28(1):235--242, January 2000.
+
+\bibitem{callaway2022what}
+Ewen Callaway.
+\newblock What's next for {{AlphaFold}} and the {{AI}} protein-folding
+  revolution.
+\newblock {\em Nature}, 604(7905):234--238, April 2022.
+
+\bibitem{Vendruscolo2002}
+M.~Vendruscolo, N.~V. Dokholyan, E.~Paci, and M.~Karplus.
+\newblock Small-world view of the amino acids that play a key role in protein
+  folding.
+\newblock {\em Phys. Rev. E}, 65:1--4, 2002.
+
+\bibitem{dipaola2013protein}
+L.~Di~Paola, M.~De~Ruvo, P.~Paci, D.~Santoni, and A.~Giuliani.
+\newblock Protein {{Contact Networks}}: {{An Emerging Paradigm}} in
+  {{Chemistry}}.
+\newblock {\em Chem. Rev.}, 113(3):1598--1613, March 2013.
+
+\bibitem{Estrada2011}
+Ernesto Estrada.
+\newblock {\em The Structure of Complex Networks - {{Theory}} and
+  {{Applications}}}.
+\newblock {Oxford University Press}, 2011.
+
+\bibitem{yao2019establishing}
+Xin-Qiu Yao, Mohamed Momin, and Donald Hamelberg.
+\newblock Establishing a framework of using {{Residue}}\textendash{{Residue}}
+  interactions in protein difference network analysis.
+\newblock {\em J. Chem. Inf. Model.}, 59(7):3222--3228, 2019.
+
+\bibitem{menichetti2016network}
+Giulia Menichetti, Piero Fariselli, and Daniel Remondini.
+\newblock Network measures for protein folding state discrimination.
+\newblock {\em Sci. Rep. UKF}, 6:30367, 2016.
+
+\bibitem{dokholyan2002topological}
+Nikolay~V Dokholyan, Lewyn Li, Feng Ding, and Eugene~I Shakhnovich.
+\newblock Topological determinants of protein folding.
+\newblock {\em Proc. Nat. Acad. Sci.}, 99(13):8637--8641, 2002.
+
+\bibitem{bassot2019using}
+Claudio Bassot, David Menendez~Hurtado, and Arne Elofsson.
+\newblock Using {{PconsC4}} and {{PconsFold2}} to {{Predict Protein
+  Structure}}.
+\newblock {\em Curr. Protoc. Bioinformatics}, 66(1):e75, 2019.
+
+\bibitem{rives2021biological}
+Alexander Rives, Joshua Meier, Tom Sercu, Siddharth Goyal, Zeming Lin, Jason
+  Liu, Demi Guo, Myle Ott, C.~Lawrence Zitnick, Jerry Ma, and Rob Fergus.
+\newblock Biological structure and function emerge from scaling unsupervised
+  learning to 250 million protein sequences.
+\newblock {\em Proc. Nat. Acad. Sci.}, 118(15), April 2021.
+
+\bibitem{rao2021msa}
+Roshan Rao, Jason Liu, Robert Verkuil, Joshua Meier, John~F. Canny, Pieter
+  Abbeel, Tom Sercu, and Alexander Rives.
+\newblock {{MSA Transformer}}.
+\newblock {\em bioRxiv}, page 2021.02.12.430858, August 2021.
+
+\bibitem{jiang2020drug}
+Mingjian Jiang, Zhen Li, Shugang Zhang, Shuang Wang, Xiaofeng Wang, Qing Yuan,
+  and Zhiqiang Wei.
+\newblock Drug\textendash target affinity prediction using graph neural network
+  and contact maps.
+\newblock {\em RSC Adv.}, 10(35):20701--20712, May 2020.
+
+\bibitem{atilgan2004smallworld}
+Ali~Rana Atilgan, Pelin Akan, and Canan Baysal.
+\newblock Small-{{World Communication}} of {{Residues}} and {{Significance}}
+  for {{Protein Dynamics}}.
+\newblock {\em Biophysical Journal}, 86(1):85--91, January 2004.
+
+\bibitem{bartoli2008effecta}
+L~Bartoli, P~Fariselli, and R~Casadio.
+\newblock The effect of backbone on the small-world properties of protein
+  contact maps.
+\newblock {\em Phys. Biol.}, 4(4):L1--L5, January 2008.
+
+\bibitem{molkenthin2016scaling}
+Nora Molkenthin and Marc Timme.
+\newblock Scaling laws in spatial network formation.
+\newblock {\em Phys. Rev. Lett.}, 117(16):168301, 2016.
+
+\bibitem{molkenthin2020self}
+Nora Molkenthin, Steffen M{\"u}hle, Antonia~SJS Mey, and Marc Timme.
+\newblock Self-organized emergence of folded protein-like network structures
+  from geometric constraints.
+\newblock {\em PLoS One}, 15(2):e0229230, 2020.
+
+\bibitem{bhattacharjee2013flory}
+Somendra~M Bhattacharjee, Achille Giacometti, and Amos Maritan.
+\newblock Flory theory for polymers.
+\newblock {\em J. Condens. Matter Phys.}, 25(50):503101, 2013.
+
+\bibitem{Danielsson2010}
+Ulf~H. Danielsson, Martin Lundgren, and Antti~J. Niemi.
+\newblock Gauge field theory of chirally folded homopolymers with applications
+  to folded proteins.
+\newblock {\em Phys. Rev. E}, 82(2):1--5, 2010.
+
+\bibitem{Molkenthin2011}
+N.~Molkenthin, S.~Hu, and A.J. Niemi.
+\newblock Discrete nonlinear {{Schr\"odinger}} equation and polygonal solitons
+  with applications to collapsed proteins.
+\newblock {\em Phys. Rev. Lett.}, 106(7):078102, 2011.
+
+\bibitem{mey2014rareevent}
+Antonia S. J.~S. Mey, Phillip~L. Geissler, and Juan~P. Garrahan.
+\newblock Rare-event trajectory ensemble analysis reveals metastable dynamical
+  phases in lattice proteins.
+\newblock {\em Phys. Rev. E}, 89(3):032109, March 2014.
+
+\bibitem{varadi2022alphafold}
+Mihaly Varadi, Stephen Anyango, Mandar Deshpande, Sreenath Nair, Cindy
+  Natassia, Galabina Yordanova, David Yuan, Oana Stroe, Gemma Wood, Agata
+  Laydon, Augustin {\v Z}{\'i}dek, Tim Green, Kathryn Tunyasuvunakool, Stig
+  Petersen, John Jumper, Ellen Clancy, Richard Green, Ankur Vora, Mira Lutfi,
+  Michael Figurnov, Andrew Cowie, Nicole Hobbs, Pushmeet Kohli, Gerard
+  Kleywegt, Ewan Birney, Demis Hassabis, and Sameer Velankar.
+\newblock {{AlphaFold Protein Structure Database}}: Massively expanding the
+  structural coverage of protein-sequence space with high-accuracy models.
+\newblock {\em Nucleic Acids Res.}, 50(D1):D439--D444, January 2022.
+
+\bibitem{bairoch2000swissprot}
+Amos Bairoch and Rolf Apweiler.
+\newblock The {{SWISS-PROT}} protein sequence database and its supplement
+  {{TrEMBL}} in 2000.
+\newblock {\em Nucleic Acids Research}, 28(1):45--48, January 2000.
+
+\bibitem{gowers2016mdanalysis}
+Richard~J. Gowers, Max Linke, Jonathan Barnoud, Tyler J.~E. Reddy, Manuel~N.
+  Melo, Sean~L. Seyler, Jan Doma{\'n}ski, David~L. Dotson, S{\'e}bastien
+  Buchoux, Ian~M. Kenney, and Oliver Beckstein.
+\newblock {{MDAnalysis}}: {{A Python Package}} for the {{Rapid Analysis}} of
+  {{Molecular Dynamics Simulations}}.
+\newblock {\em Proceedings of the 15th Python in Science Conference}, pages
+  98--105, 2016.
+
+\bibitem{SI}
+Supplemental material.
+
+\bibitem{2022sequence}
+Sequence distance distribution.
+\newblock Mey Research group, March 2022.
+
+\bibitem{2008kolmogorov}
+Kolmogorov\textendash{{Smirnov Test}}.
+\newblock In {\em The {{Concise Encyclopedia}} of {{Statistics}}}, pages
+  283--287. {Springer}, {New York, NY}, 2008.
+
+\bibitem{michie1996analysis}
+Alex~D. Michie, Christine~A. Orengo, and Janet~M. Thornton.
+\newblock Analysis of {{Domain Structural Class Using}} an {{Automated Class
+  Assignment Protocol}}.
+\newblock {\em Journal of Molecular Biology}, 262(2):168--185, September 1996.
+
+\end{thebibliography}
